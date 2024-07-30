@@ -3,3 +3,5 @@ matplotlib
 numpy
 pandas==2.*
 plotly==5.*
+folium
+requests
