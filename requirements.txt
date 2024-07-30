@@ -1,4 +1,7 @@
 jupyter-book
 matplotlib
 numpy
-ghp-import
+pandas==2.*
+plotly==5.*
+folium
+requests
