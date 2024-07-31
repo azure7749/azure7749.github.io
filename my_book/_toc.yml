@@ -17,7 +17,6 @@ parts:
   - caption: Week 3
     chapters:
       - file: W3/QGIS.md
-      - file: W3/OpenStreetMap.md
       - file: W3/OSM.ipynb
 
 

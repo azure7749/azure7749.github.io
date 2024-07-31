@@ -1,4 +1,4 @@
-# Git# Git
+# Git
 ## Coqui TTS Contributing Guidelines
 [Credit](https://github.com/coqui-ai/TTS/blob/dev/CONTRIBUTING.md?plain=1)
 
