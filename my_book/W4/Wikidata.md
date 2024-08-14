@@ -1,7 +1,5 @@
 # Wikidata Assignment
 ### [Wikidata: The Making Of](https://dl.acm.org/doi/pdf/10.1145/3543873.3585579)
-The creation of wikidata...
-
 ### Contribution
 ![](https://imgur.com/QeDXbsq.jpg)
 
@@ -27,6 +25,5 @@ ORDER BY DESC(?population)
 ![](https://imgur.com/dY4AI9D.jpg)
 
 #### Issues
-如台北縣及台中縣等舊行政區資訊會一併顯示於結果中
-
+縣市行政區欄位中出現已不存在的台北縣
 

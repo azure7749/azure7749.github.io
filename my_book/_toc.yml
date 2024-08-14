@@ -21,7 +21,6 @@ parts:
   - caption: Week 4
     chapters:
       - file: W4/Wikidata.md
-      - file: W4/360 Camera.md
   - caption: shp2geojson
     chapters:
       - file: shp2geojson/shp2geojson.md
